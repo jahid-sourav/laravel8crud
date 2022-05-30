@@ -1,0 +1,53 @@
+.navbar-brand{
+    width: 100px;
+}
+.navbar-brand img{
+    width: 100%;
+}
+.nav-link{
+    font-size: 16px;
+    font-weight: bolder;
+    color: #e8a732 !important;
+}
+.active-link{
+    color: #fff !important;
+}
+.nav-link:hover{
+    color: #fff !important;
+}
+.border-theme{
+    border: 1px solid #e8a732;
+}
+.text-theme{
+    color: #e8a732;
+}
+.bg-theme{
+    background-color: #e8a732;
+}
+.form-label-radio,
+.form-label{
+    font-size: 18px;
+    font-weight: bolder;
+    color: #212529;
+}
+.form-label-radio{
+    font-size: 14px;
+}
+textarea{
+    resize: none;
+}
+.btn{
+    font-weight: bolder;
+    font-size: 16px;
+}
+.card-theme{
+    position: relative;
+}
+.card-badge{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 5px;
+    border-bottom-right-radius: 5px;
+    color: #fff;
+}
